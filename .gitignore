@@ -5,7 +5,9 @@
 **/node_modules
 **/.eslintrc
 **/.npmrc
-**/babel.congif.js
+**/*.config.js
 **/*.spec.js
 **/LICENSE
 **/*.json
+**/*.lock
+**/HINTS.md
