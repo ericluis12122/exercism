@@ -1,11 +1,11 @@
-# Ignore any file named "exercism" in any subdirectory
 **/.exercism
-
-# Ignore all files with the .bash extension in any subdirectory
 **/*.bash
-
-# Ignore any file named "HELP.md" in any subdirectory
 **/HELP.md
-
-# Ignore all files with the .bats extension in any subdirectory
 **/*.bats
+**/node_modules
+**/.eslintrc
+**/.npmrc
+**/babel.congif.js
+**/*.spec.js
+**/LICENSE
+**/*.json
