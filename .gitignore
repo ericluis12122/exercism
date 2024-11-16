@@ -1,0 +1,11 @@
+# Ignora cualquier archivo llamado "exercism" en cualquier subdirectorio
+**/.exercism
+
+# Ignora todos los archivos con la extensión .bash en cualquier subdirectorio
+**/*.bash
+
+# Ignora cualquier archivo llamado "HELP.md" en cualquier subdirectorio
+**/HELP.md
+
+# Ignora cualquier archivo con la extensión .bats en cualquier subdirectorio
+**/*.bats
