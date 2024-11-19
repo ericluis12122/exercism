@@ -11,3 +11,6 @@
 **/*.json
 **/*.lock
 **/HINTS.md
+**/__pycache__
+**/.pytest_cache
+**/*test.py
