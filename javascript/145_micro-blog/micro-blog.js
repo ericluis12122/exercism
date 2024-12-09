@@ -1,0 +1,1 @@
+export const truncate = input => Array.from(input).slice(0,5).join('');
