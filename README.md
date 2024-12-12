@@ -7,4 +7,4 @@ Solving programming challenges with the goal of having fun while exploring and m
 | [bash](/bash) | 6 |
 | [javascript](/javascript) | 86 |
 | [python](/python) | 66 |
-| [typescript](/typescript) | 5 |
+| [typescript](/typescript) | 7 |
