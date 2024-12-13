@@ -5,6 +5,6 @@ Solving programming challenges with the goal of having fun while exploring and m
 | Lenguage | Exercises |
 |---|:---:|
 | [bash](/bash) | 6 |
-| [javascript](/javascript) | 86 |
+| [javascript](/javascript) | 87 |
 | [python](/python) | 66 |
-| [typescript](/typescript) | 11 |
+| [typescript](/typescript) | 12 |
