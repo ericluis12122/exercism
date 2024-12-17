@@ -1,29 +1,27 @@
-# Torres de Hanoi
+# Towers of Hanoi
 
-## Instrucciones
+## Instructions
 
-Tienes a tu disposición un conjunto de discos numerados del 1 al N y tres torres
-etiquetadas como A, B y C. La torre A contiene inicialmente todos los discos
-apilados en orden descendente, desde el disco N en la parte inferior hasta el
-disco 1 en la parte superior.
-Tu tarea es implementar una solución recursiva para mover todos los discos
-desde la torre A hasta la torre C, siguiendo las reglas clásicas de las Torres de
-Hanoi:
-1. Solo se puede mover un disco a la vez.
-2. Un disco más grande nunca puede estar sobre uno más pequeño.
-3. Solo puedes mover el disco superior de una torre.
+You have a set of disks numbered from 1 to N and three towers labeled A, B, and C. Tower A initially contains all the disks stacked in descending order, with disk N at the bottom and disk 1 at the top.
 
-Debes definir una función llamada 
+Your task is to implement a recursive solution to move all the disks from Tower A to Tower C, following the classic rules of the Towers of Hanoi:
+
+1. Only one disk can be moved at a time.
+2. A larger disk can never be placed on top of a smaller disk.
+3. Only the top disk of a tower can be moved.
+
+You must define a function named:
+
 ```python
-torres_de_hanoi(n, origen, destino, auxiliar)
+def hanoi(n, source, target, auxiliary):
 ```
 
-que, dado el número total de discos n y las torres de origen, destino y auxiliar,
-imprima los pasos necesarios para lograr el movimiento de todos los discos
-desde la torre A hasta la torre C.
-A continuacion un ejemplo de una posible entrada y salida de la solucion:
-| Entrada | Salida |
-|---|:---:|
-| N de discos | Mover disco n de la torre A a la torre D |
-| N de torres | Mover disco n de la torre A a la torre B |
-| Torres : origen, desitno, auxiliar | |
+This function, given the total number of disks `n` and the source, target, and auxiliary towers, should print the steps required to move all the disks from Tower A to Tower C.
+
+## Example Input and Output
+
+| Input                | Output                           |
+|----------------------|----------------------------------|
+| Number of disks (N)  | Move disk n from Tower A to C    |
+| Number of towers     | Move disk n from Tower A to B    |
+| Towers: source, target, auxiliary | |
