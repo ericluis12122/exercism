@@ -6,7 +6,7 @@ Solving programming challenges with the goal of having fun while exploring and m
 |---|:---:|
 | [bash](/bash) | 6 |
 | [csharp](/csharp) | 3 |
-| [java](/java) | 22 |
+| [java](/java) | 24 |
 | [javascript](/javascript) | 86 |
 | [python](/python) | 85 |
 | [typescript](/typescript) | 12 |
