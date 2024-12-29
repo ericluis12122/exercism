@@ -8,5 +8,5 @@ Solving programming challenges with the goal of having fun while exploring and m
 | [csharp](/csharp) | 3 |
 | [java](/java) | 32 |
 | [javascript](/javascript) | 86 |
-| [python](/python) | 85 |
+| [python](/python) | 86 |
 | [typescript](/typescript) | 12 |
