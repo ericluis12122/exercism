@@ -5,7 +5,7 @@ Solving programming challenges with the goal of having fun while exploring and m
 | Lenguage | Exercises |
 |---|:---:|
 | [bash](/bash) | 6 |
-| [csharp](/csharp) | 7 |
+| [csharp](/csharp) | 10 |
 | [java](/java) | 41 |
 | [javascript](/javascript) | 86 |
 | [python](/python) | 87 |
