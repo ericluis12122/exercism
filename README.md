@@ -9,4 +9,4 @@ Solving programming challenges with the goal of having fun while exploring and m
 | [java](/java) | 54 |
 | [javascript](/javascript) | 87 |
 | [python](/python) | 87 |
-| [typescript](/typescript) | 16 |
+| [typescript](/typescript) | 18 |
