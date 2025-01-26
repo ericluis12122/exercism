@@ -5,9 +5,9 @@ Solving programming challenges with the goal of having fun while exploring and m
 | Lenguage | Exercises |
 |---|:---:|
 | [bash](/bash) | 6 |
-| [csharp](/csharp) | 27 |
+| [csharp](/csharp) | 28 |
 | [java](/java) | 54 |
 | [javascript](/javascript) | 92 |
 | [python](/python) | 87 |
 | [typescript](/typescript) | 19 |
-| **Total** | **285** |
+| **Total** | **286** |
