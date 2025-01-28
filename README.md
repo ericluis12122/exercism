@@ -8,6 +8,6 @@ Solving programming challenges with the goal of having fun while exploring and m
 | [csharp](/csharp) | 28 |
 | [java](/java) | 54 |
 | [javascript](/javascript) | 94 |
-| [python](/python) | 87 |
+| [python](/python) | 88 |
 | [typescript](/typescript) | 19 |
-| **Total** | **288** |
+| **Total** | **289** |
