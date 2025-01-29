@@ -4,10 +4,10 @@ Solving programming challenges with the goal of having fun while exploring and m
 ### Score:
 | Lenguage | Exercises |
 |---|:---:|
-| [bash](/bash) | 6 |
+| [bash](/bash) | 8 |
 | [csharp](/csharp) | 28 |
 | [java](/java) | 54 |
-| [javascript](/javascript) | 94 |
+| [javascript](/javascript) | 95 |
 | [python](/python) | 88 |
 | [typescript](/typescript) | 19 |
-| **Total** | **289** |
+| **Total** | **292** |
