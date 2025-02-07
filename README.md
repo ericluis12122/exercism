@@ -9,7 +9,7 @@ Solving programming challenges with the goal of having fun while exploring and m
 | [java](/java) | 55 |
 | [javascript](/javascript) | 95 |
 | [mysql](/mysql) | 5 |
-| [php](/php) | 5 |
+| [php](/php) | 7 |
 | [python](/python) | 94 |
 | [typescript](/typescript) | 19 |
-| **Total** | **313** |
+| **Total** | **315** |
