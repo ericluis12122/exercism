@@ -7,9 +7,9 @@ Solving programming challenges with the goal of having fun while exploring and m
 | [bash](/bash) | 12 |
 | [csharp](/csharp) | 28 |
 | [java](/java) | 55 |
-| [javascript](/javascript) | 95 |
+| [javascript](/javascript) | 96 |
 | [mysql](/mysql) | 5 |
 | [php](/php) | 10 |
 | [python](/python) | 94 |
 | [typescript](/typescript) | 19 |
-| **Total** | **318** |
+| **Total** | **319** |
