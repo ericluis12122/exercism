@@ -10,6 +10,6 @@ Solving programming challenges with the goal of having fun while exploring and m
 | [javascript](/javascript) | 100 |
 | [mysql](/mysql) | 6 |
 | [php](/php) | 13 |
-| [python](/python) | 94 |
+| [python](/python) | 95 |
 | [typescript](/typescript) | 19 |
-| **Total** | **327** |
+| **Total** | **328** |
